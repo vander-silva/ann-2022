@@ -1,23 +1,28 @@
-## Python: link para download de instalador
+## 01) Python: link para download de instalador
 https://www.python.org/downloads/
 
-## Python: link para vídeo de instalação e uso básico
+## 02) Python: link para vídeo de instalação e uso básico
 https://youtu.be/4ezsGds87IM
 
-## Pycharm: link para download de instalador
+## 03) Pycharm: link para download de instalador
 https://www.jetbrains.com/pycharm/download/#section=windows
 
-## Pycharm: link para vídeo de instalação e uso básico
+## 04) Pycharm: link para vídeo de instalação e uso básico
 https://youtu.be/HNUq8X_0nlM
 
-## Pycharm: link para vídeo sobre ambiente virtual no Pycharm
+## 05) Pycharm: link para vídeo sobre ambiente virtual no Pycharm
 https://youtu.be/stEvUVvYD00
 
-## Aula ANN 2022: link para arquivos python da aula de redes neurais 2022
+## 06) Aula ANN 2022: link para arquivos python da aula de redes neurais 2022
 https://github.com/vander-silva/ann-2022
 
-## Biliotecas necessárias para a aula de redes neurais 2022
+## 07) Biliotecas necessárias para a aula de redes neurais 2022
 > pip install tensorflow
 > pip install sklearn
 > pip install mlxtend
 > pip install numpy
+
+Observações:
+** Use os passos 04 ou 05 para criar um projeto (em ambiente virtual, se for de sua preferência) para a aula de ann;
+** Na sequência, copie os dois arquivos python do github (passo 06) para seu projeto.
+** Em seguida instale as bibliotecas do passo 07 em seu ambiente virtual ou normal.
