@@ -21,6 +21,7 @@ https://github.com/vander-silva/ann-2022
 > pip install sklearn
 > pip install mlxtend
 > pip install numpy
+> pip install jupyterlab
 
 Observações:
 ** Use os passos 04 ou 05 para criar um projeto (em ambiente virtual, se for de sua preferência) para a aula de ann;
